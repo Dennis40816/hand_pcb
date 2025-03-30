@@ -12,9 +12,14 @@ This repository collects all documents related to HAND PCB, which are divided in
 
 ## Appearance
 
-|              main_board               |               sensor_board                |                  combination                  |
-| :-----------------------------------: | :---------------------------------------: | :-------------------------------------------: |
-| ![main_board](pictures/hand_main.png) | ![sensor_board](pictures/hand_sensor.png) | ![combination](pictures/hand_combination.png) |
+|              | Front                                     | Back                                                     |
+| ------------ | ----------------------------------------- | -------------------------------------------------------- |
+| Main Board   | ![main_board](pictures/hand_main.png)     | ![main_board back side](pictures/hand_main_back.png)     |
+| Sensor Board | ![sensor_board](pictures/hand_sensor.png) | ![sensor_board back side](pictures/hand_sensor_back.png) |
+
+The combination of the main board and the sensor board is shown below:
+
+![combination](pictures/hand_combination.png)
 
 It is worn on the user's hand back as shown below:
 
