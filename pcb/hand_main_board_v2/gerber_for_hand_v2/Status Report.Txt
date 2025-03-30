@@ -1,0 +1,10 @@
+Output: Generates pick and place files
+Type  : Pick Place
+From  : Variant [[No Variations]] of Project [hand_main_v2.PrjPcb]
+   Generated File[Pick Place for hand_main_board_v2.csv]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At PM 02:22:28 On Tue 24 7 2
