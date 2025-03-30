@@ -61,4 +61,4 @@ Please refer to [hand_simulation](https://github.com/Dennis40816/hand_simulation
 
 ## Precautions
 
-- The hand_ad_lib for the main board and sensor board are **different**; please use the hand_ad_lib provided in the corresponding folder.
+- The `hand_ad_lib` for the main board and sensor board are **different**; please use the `hand_ad_lib` provided in the corresponding folder.
